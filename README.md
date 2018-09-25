@@ -1,3 +1,3 @@
 # StreetViewTextRecognition
-contains a complete Guide for text recognition in a street view
-hemanth
+Contains a complete Guide for text recognition in a street view
+
